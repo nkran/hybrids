@@ -1,0 +1,7 @@
+_tmp/
+data/
+*.zarr
+*.gz
+*.vcf
+*.tbi
+*.idx
