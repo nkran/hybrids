@@ -6,3 +6,4 @@ data/
 *.tbi
 *.idx
 .venv/
+.vscode/
