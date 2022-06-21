@@ -5,3 +5,4 @@ data/
 *.vcf
 *.tbi
 *.idx
+.venv
